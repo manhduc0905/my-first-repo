@@ -25,4 +25,4 @@ of code
 
 Here is how you make [a link](https://www.wikipedia.org/).
 
-![This is an image.](https://commons.wikimedia.org/wiki/Main_Page#/media/File:Pez_unicornio_de_nariz_corta_(Naso_brevirostris),_mar_Rojo,_Egipto,_2023-04-15,_DD_61.jpg)
+![This is an image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Pez_unicornio_de_nariz_corta_%28Naso_brevirostris%29%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-28%2C_DD_16.jpg/640px-Pez_unicornio_de_nariz_corta_%28Naso_brevirostris%29%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-28%2C_DD_16.jpg)
