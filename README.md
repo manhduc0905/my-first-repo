@@ -25,4 +25,4 @@ of code
 
 Here is how you make [a link](https://www.wikipedia.org/).
 
-![This is an image.](https://en.wikipedia.org/wiki/Pikachu#/media/File:Pok%C3%A9mon_Pikachu_art.png)
+![This is an image.](https://commons.wikimedia.org/wiki/Main_Page#/media/File:Pez_unicornio_de_nariz_corta_(Naso_brevirostris),_mar_Rojo,_Egipto,_2023-04-15,_DD_61.jpg)
