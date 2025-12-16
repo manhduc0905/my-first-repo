@@ -25,4 +25,4 @@ of code
 
 Here is how you make [a link](https://www.wikipedia.org/).
 
-![GitHub Octocat](https://github.blog/wp-content/uploads/2008/12/forkme_right_darkblue_121621.png?resize=149%2C149)
+![a picture](https://img.pokemondb.net/artwork/large/pikachu-hoenn-cap.jpg)
